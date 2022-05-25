@@ -4,7 +4,6 @@ import com.dio.model.Gato;
 
 public class PrimeiroPrograma {
 
-	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		Gato gato = new Gato();
